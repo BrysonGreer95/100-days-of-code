@@ -1,30 +1,189 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 1st, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started 1st exercise for Arrays on LeetCode
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This first exercise was way harded than I expected it to be.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [MaxConsecutive Integer](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/MaxConsecutive/Solution.java)
 
 
-### Day 1: June 27, Monday
+### Day 1: January 2nd, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** 
+
+
+### Day 2: January 3rd, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 3: 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 4:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 5:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 6:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 7:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 8:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 9:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 10:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 11:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 12:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 13:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 14:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 15:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 16:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 17:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 18:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 19:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 20:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
