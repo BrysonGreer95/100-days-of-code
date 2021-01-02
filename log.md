@@ -13,9 +13,10 @@
 
 **Today's Progress**: 2nd exercises for Arrays on LeetCode. Finding the number of digits in a number, i.e. 100 has 3 digits.
 
-**Thoughts:** My first attempt at this exercise was basically a duct tape solution. It was faster than 100% of users though (not sure about this, probably because it was just nested if statements). I refactored it though for a proper solution and got "faster than 94%" so I'm happier with that. Fast but wrong doesn't equal good.
+**Thoughts:** My first attempt at this exercise was basically a duct tape solution. It was faster than 100% of users though (not sure about this, probably because it was just nested if statements). I refactored it though for a proper solution and got "faster than 94%" so I'm happier with that. Fast but wrong doesn't equal good. Ended up working later in the day on the 'Squares of a Sorted Array' exercise.
 
 **Link to work:** [Number Of Evens](https://github.com/BrysonGreer95/LeetCode/tree/master/Arrays/numberOfEvens)
+**Link to work:** [Squares of a Sorted Array](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/SquaresOfSortedArray/Solution.java)
 
 
 ### Day 3: January 3rd, 2021
