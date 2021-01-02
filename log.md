@@ -6,16 +6,16 @@
 
 **Thoughts:** This first exercise was way harded than I expected it to be.
 
-**Link to work:** [MaxConsecutive Integer](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/MaxConsecutive/Solution.java)
+**Link to work:** [Max Consecutive Integer](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/MaxConsecutive/Solution.java)
 
 
 ### Day 2: January 2nd, 2021
 
-**Today's Progress**: 
+**Today's Progress**: 2nd exercises for Arrays on LeetCode. Finding the number of digits in a number, i.e. 100 has 3 digits.
 
-**Thoughts:** 
+**Thoughts:** My first attempt at this exercise was basically a duct tape solution. It was faster than 100% of users though (not sure about this, probably because it was just nested if statements). I refactored it though for a proper solution and got "faster than 94%" so I'm happier with that. Fast but wrong doesn't equal good.
 
-**Link to work:** 
+**Link to work:** [Number Of Evens](https://github.com/BrysonGreer95/LeetCode/tree/master/Arrays/numberOfEvens)
 
 
 ### Day 3: January 3rd, 2021
