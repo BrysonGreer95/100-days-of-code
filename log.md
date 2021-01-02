@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 1st, 2021
+### Day 1: January 1st, 2021
 
 **Today's Progress**: Started 1st exercise for Arrays on LeetCode
 
@@ -9,7 +9,7 @@
 **Link to work:** [MaxConsecutive Integer](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/MaxConsecutive/Solution.java)
 
 
-### Day 1: January 2nd, 2021
+### Day 2: January 2nd, 2021
 
 **Today's Progress**: 
 
@@ -18,7 +18,7 @@
 **Link to work:** 
 
 
-### Day 2: January 3rd, 2021
+### Day 3: January 3rd, 2021
 
 **Today's Progress**: 
 
@@ -27,16 +27,7 @@
 **Link to work:** 
 
 
-### Day 3: 
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
-
-
-### Day 4:
+### Day 4: 
 
 **Today's Progress**: 
 
@@ -181,6 +172,15 @@
 
 
 ### Day 20:
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 21:
 
 **Today's Progress**: 
 
