@@ -21,11 +21,11 @@
 
 ### Day 3: January 3rd, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Worked on Arrays in LeetCode more. Didn't make a lot of results though, so thinking about taking some time later tonight to work on something fun instead.
 
-**Thoughts:** 
+**Thoughts:** Really trying to stay motivated so I don't just quit when things get tough. Also trying to resist looking up solutions. I want to accomplish it myself.
 
-**Link to work:** 
+**Link to work:** No link today, will continue tomorrow.
 
 
 ### Day 4: 
