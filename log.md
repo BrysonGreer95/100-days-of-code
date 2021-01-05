@@ -28,13 +28,14 @@
 **Link to work:** No link today, will continue tomorrow.
 
 
-### Day 4: 
+### Day 4: January 5th, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Finished the LeetCode problem for merging sorted arrays. Took a small break yesterday because it was my first day back at work after the holiday break.
 
-**Thoughts:** 
+**Thoughts:** Turns out, Im not great at working with Arrays in Java. Im surprised at how much these problems are helping me.
 
-**Link to work:** 
+**Link to work:** [Merge Sorted Arrays](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/MergeSortedArray/Solution.java)
+
 
 
 ### Day 5:

@@ -12,3 +12,6 @@ Continue LeetCode Array Exercises. Working on being honest with my code and refa
 
 ### R1D3
 Today was a tough one for the LeetCode problems. Thinking about taking a break for a day and coding something else. Something relaxing to get my mind off of it.
+
+### R1D4
+Worked on Merging Sorted Arrays today.
