@@ -6,7 +6,7 @@
 
 **Thoughts:** This first exercise was way harded than I expected it to be.
 
-**Link to work:** [Max Consecutive Integer](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/MaxConsecutive/Solution.java)
+**Link to work:** [Max Consecutive Integer](https://github.com/BrysonGreer95/LeetCode/blob/master/src/main/java/Arrays/MaxConsecutive/Solution.java)
 
 
 ### Day 2: January 2nd, 2021
@@ -15,8 +15,8 @@
 
 **Thoughts:** My first attempt at this exercise was basically a duct tape solution. It was faster than 100% of users though (not sure about this, probably because it was just nested if statements). I refactored it though for a proper solution and got "faster than 94%" so I'm happier with that. Fast but wrong doesn't equal good. Ended up working later in the day on the 'Squares of a Sorted Array' exercise.
 
-**Link to work:** [Number Of Evens](https://github.com/BrysonGreer95/LeetCode/tree/master/Arrays/numberOfEvens)
-**Link to work:** [Squares of a Sorted Array](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/SquaresOfSortedArray/Solution.java)
+**Link to work:** [Number Of Evens](https://github.com/BrysonGreer95/LeetCode/blob/master/src/main/java/Arrays/numberOfEvens/Solution2.java)
+**Link to work:** [Squares of a Sorted Array](https://github.com/BrysonGreer95/LeetCode/blob/master/src/main/java/Arrays/SquaresOfSortedArray/Solution.java)
 
 
 ### Day 3: January 3rd, 2021
@@ -34,7 +34,7 @@
 
 **Thoughts:** Turns out, Im not great at working with Arrays in Java. Im surprised at how much these problems are helping me.
 
-**Link to work:** [Merge Sorted Arrays](https://github.com/BrysonGreer95/LeetCode/blob/master/Arrays/MergeSortedArray/Solution.java)
+**Link to work:** [Merge Sorted Arrays](https://github.com/BrysonGreer95/LeetCode/blob/master/src/main/java/Arrays/MergeSortedArray/Solution.java)
 
 
 
